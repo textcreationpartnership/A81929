@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The plain way of peace and unity in matters of religion. Shewed by some maxims supposed to be undeniable, which John Durie hath made use of in negotiating with all the churches. And by some expedients supposed to be effectual, which he hath endeavoured to make practicable among the churches, for the preserving and promoting of the Protestant religion abroad. And now are offered for the preventing of further breaches, and the settlement of unity amongst our selves at home.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81929</idno>
+            <idno type="STC">Wing D2881</idno>
+            <idno type="STC">Thomason E1808_1</idno>
+            <idno type="STC">ESTC R209934</idno>
+            <idno type="EEBO-CITATION">99868780</idno>
+            <idno type="PROQUEST">99868780</idno>
+            <idno type="VID">170397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 225:E1808[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The plain way of peace and unity in matters of religion. Shewed by some maxims supposed to be undeniable, which John Durie hath made use of in negotiating with all the churches. And by some expedients supposed to be effectual, which he hath endeavoured to make practicable among the churches, for the preserving and promoting of the Protestant religion abroad. And now are offered for the preventing of further breaches, and the settlement of unity amongst our selves at home.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Tyton at the three Daggers in Fleetstreet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peace --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170397:1" rendition="simple:additions"/>
+            <p>The Plain Way OF PEACE and UNITY IN Matters of Religion.</p>
+            <p>Shewed By ſome Maxims ſuppoſed to be undeniable, which <hi>John Durie</hi> hath made uſe of in Ne<g ref="char:EOLhyphen"/>gotiating with all the Churches.</p>
+            <p>AND By ſome Expedients ſuppoſed to be effectual, which he hath endeavoured to make practicable among the Churches, for the preſerving and promo<g ref="char:EOLhyphen"/>ting of the Proteſtant Religion abroad.</p>
+            <p>And now are offered For the preventing of further Breaches, and the Set<g ref="char:EOLhyphen"/>tlement of Unity amongſt our ſelves at home.</p>
+            <q>
+               <bibl>Rom. 12. 18.</bibl> 
+               <p>If it be poſſible, as much as lieth in you live peace<g ref="char:EOLhyphen"/>ably with all men.</p>
+            </q>
+            <q>
+               <bibl>Phil. 2. 1, 2, 3, 4.</bibl> 
+               <p>If there be any conſolation in Chriſt, if any com<g ref="char:EOLhyphen"/>fort of love, if any fellowſhip of the Spirit, if any bowels and mercies; fulfill ye my joy, That ye be like-minded, having the ſame love; being of one accord, of one mind.</p>
+               <p>Let nothing be done through ſtrife or vain glory, but in lowlineſſe of minde, let each eſteen other better than themſelves.</p>
+               <p>Look not every man on his own things, but every man alſo on the things of others, &amp;c.</p>
+            </q>
+            <q>
+               <bibl>Eph. 4. 1, 2, 3.</bibl> 
+               <p>I beſeech you that you walk worthy of the vacation where with ye are called.</p>
+               <p>With all lowlineſſe and meekneſſe, with long-ſuffering, forbearing one another in love.</p>
+               <p>Endeavouring to keep the unity of the ſpirit in the bond of peace, &amp;c.</p>
+            </q>
+            <p>LONDON, Printed for <hi>Fr. Tyton</hi> at the three Daggers in <hi>Fleetſtreet,</hi> 1660:</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170397:2"/>
+            <pb n="1" facs="tcp:170397:2"/>
+            <head>The Plain Way of Peace and Unity IN Matters of Religion, Shewed By undeniable Maximes, and by effectual Ex<g ref="char:EOLhyphen"/>pedients, to perſerve and promote The Proteſtant Religion, By preventing further Breaches, and advancing a Settlement amongſt our ſelves at home.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>He Proteſtant Religion can nei<g ref="char:EOLhyphen"/>ther be propagated abroad; nor maintained at home; ex<g ref="char:EOLhyphen"/>cept the Principles upon which it is grounded be upheld pub<g ref="char:EOLhyphen"/>lickly, and the practice made conformable thereunto.</p>
+            <p n="2">2. The fundamental Principles which diſtin<g ref="char:EOLhyphen"/>guiſh the Proteſtant Religion from Popery, are chiefly theſe:</p>
+            <list>
+               <item>1. That the word of God in the Scriptures is the only Rule of Faith and Obedience.</item>
+               <item>2. That this Word is infallible and clear in all things neceſſary for ſalvation.</item>
+               <item>3. That this Word is perfectly ſufficient to make a man wiſe unto ſalvation, and throughly furniſhed unto all good works.</item>
+            </list>
+            <pb n="2" facs="tcp:170397:3"/>
+            <p n="3">3. The Practice of the Proteſtant Pro<g ref="char:EOLhyphen"/>feſſion cannot be made conformable unto theſe Principles, except two things be obſerved:</p>
+            <list>
+               <item>1. That all things to be taught and to be done by and in this profeſſion have a war<g ref="char:EOLhyphen"/>rant from the word of God.</item>
+               <item>2. That they who teach and do theſe things do the ſame knowingly and in Faith, and not becauſe it is a cuſtome long ago re<g ref="char:EOLhyphen"/>ceived and enjoyned by humane Autho<g ref="char:EOLhyphen"/>rity. For Chriſt ſaith, <hi>Matth. 15. 9. In vain doe they worſhip me, teaching for Doctrines the commandments of men.</hi>
+               </item>
+            </list>
+            <p n="4">4. If theſe Principles, and this Practice be upheld in a Goſpel-way; that is, if they be made evident to the conſcience of upright minded men by a Demonſtration of Truth, and not impoſed upon all men, becauſe ſome in power will have it ſo, then the Proteſtant Religion will be propagated without the mix<g ref="char:EOLhyphen"/>ture of Popery, but not otherwiſe.</p>
+            <p n="5">5. And if it ſhould be effectually propagated it muſt be upheld not onely to be free from Popery, which is a dependance upon the Pope as infallible, and ſuperſtitiouſneſs impoſed by Power: but alſo as oppoſite to prophaneneſs which leads to Atheiſm, and to Diſorderlineſs, which leads back either to Prophaneneſs, or to Popery; or begers <hi>Enthuſiaſtical</hi> Fancies, and therewith endleſs Diviſions.</p>
+            <pb n="3" facs="tcp:170397:3"/>
+            <p n="6">6. The expedient to avoid Prophaneneſs is to educate Youths carefully in the Principles of Chriſtianity, and of ſound Learning; and by civil Laws to repreſs the Intemperancies and Exceſſes of Riot and Wantonneſs, in thoſe that are of Age, that being kept ſober and ra<g ref="char:EOLhyphen"/>tional, their conſcience may have its proper work in them.</p>
+            <p n="7">7. The expedient to avoid Diſorderlineſs in the profeſſion of Religion, is to unite the Pro<g ref="char:EOLhyphen"/>feſſours together ſo farre as they have attained, and to keep them from biting and devouring one another, for that whereunto they have not attained.</p>
+            <p n="8">8. They cannot be united in that where<g ref="char:EOLhyphen"/>unto they have attained, except they know one anothers attainments; and owne each other ſo farre as they are come.</p>
+            <p n="9">9. The attainments of all may be known by their publick or private Confeſſions, and their owning of each other therein, will be diſ<g ref="char:EOLhyphen"/>cerned by the Harmony thereof in matters of Faith, and in the Rules of Obedience to God and men.</p>
+            <p n="10">10. They cannot be kept from biting and devouring one another about the things where<g ref="char:EOLhyphen"/>in they differ; except the occaſions of offences which they give to each other, be firſt removed and afterward prevented.</p>
+            <pb n="4" facs="tcp:170397:4"/>
+            <p n="11">11. The occaſions of offences cannot be removed, except the parties offended on each ſide, be willing to meet and agree upon the way of removing the ſame according to the Rules of the Goſpel.</p>
+            <p n="12">12. Nor can the occaſions of offen<g ref="char:EOLhyphen"/>ces be prevented, ſo long as Chriſtians are not taught by their Leaders, and preſſed in Conſcience to walk by the ſame Rule of Cha<g ref="char:EOLhyphen"/>rity, to bear one with another, and to forbear diſputing with, and murmuring at one another.</p>
+            <p n="13">13. To oblige them in conſcience to walk by this Rule, the expedient is to let them all equally enjoy a Regulated Liberty, ſo as they may not fear to be impoſed upon by power, nor hindered by tumults in their way, nor un<g ref="char:EOLhyphen"/>dermined by Policy in their Conſtitution.</p>
+            <p n="14">14. This liberty may be Regulated, if each party can be obliged to declare that which they would have others do, or not do towards them<g ref="char:EOLhyphen"/>ſelves, for their edification; and then if they be obliged to do, and not to do the ſame to<g ref="char:EOLhyphen"/>wards others alſo for their edification reci<g ref="char:EOLhyphen"/>procally.</p>
+            <p n="15">15. The expedient to oblige them to for<g ref="char:EOLhyphen"/>bear diſputing one with another about their particular differences, is to divert their thoughts and put them upon publick tasks, wherein they ſhall have no cauſe to diſpute with any for
+<pb n="5" facs="tcp:170397:4"/>
+a victory, but onely to ſhew their abilities for the ſervice and good of all.</p>
+            <p>Theſe tasks may be many, but at preſent three ſeem moſt uſefull to be ſet upon.</p>
+            <list>
+               <item>1. What the things are wherein all Prote<g ref="char:EOLhyphen"/>ſtants agree in Doctrine, Worſhip and Diſcipline.</item>
+               <item>2. How they who differ not in Fundamen<g ref="char:EOLhyphen"/>tals, may notwithſtanding leſſer differen<g ref="char:EOLhyphen"/>ces, edifie one another according to the Rules of Chriſtian Moderation.</item>
+               <item>3. What Truths Proteſtants ſhould unani<g ref="char:EOLhyphen"/>nimouſly hold forth to <hi>Jews, Turks</hi> and <hi>Heathens,</hi> for their converſion to Chri<g ref="char:EOLhyphen"/>ſtianity.</item>
+            </list>
+            <p n="16">16. The expedients which will oblige them to forbear murmuring one at another, are:</p>
+            <list>
+               <item>1. To aboliſh the names of parties, as Preſ<g ref="char:EOLhyphen"/>byterial, Prelatical, Congregational, <hi>&amp;c.</hi> and to be called Reformed Chriſtians of <hi>England, Scotland, France, Germany,</hi> &amp;c.</item>
+               <item>2. To diſcountenance controverſal writing by private perſons, and to oblige every party to ſuppreſs it within themſelves, by requiring their members to obſerve that wherunto the Cardinal <hi>Richelieu</hi> brought the <hi>French</hi> Proteſtants, namely, <hi>That all things which ſhould be publiſhed for the de<g ref="char:EOLhyphen"/>fence of a party ſhould be reviewed and
+<pb facs="tcp:170397:5"/>
+owned by the leaders of that party.</hi>
+               </item>
+               <item>3. To bring Refutatory ſcribling out of uſe, (except it be in matters of Fact, where witneſſes may be had to diſprove un<g ref="char:EOLhyphen"/>truths) and to oblige men to declare their own ſenſe of truths affirmatively and ne<g ref="char:EOLhyphen"/>gatively, without inſulting over others for their ſuppoſed errours.</item>
+               <item>4. To ſet ſome Peace-makers a work, to deal with the leading fierce men of both ſides, to take off the edge of their jealou<g ref="char:EOLhyphen"/>ſies and paſſions againſt one another, and if there could be a Council or Committee of ſuch Peace-makers formed, it would do the work.</item>
+            </list>
+            <p n="17">17. If the Diſputings and murmurings which by reaſon of jealouſies begin already to work, be not ſpeedily prevented, a relapſe may make our breaches worſe and incurable,</p>
+            <lg>
+               <l>Principiis obſta ſero Medicina paratur</l>
+               <l>Cum mala per longas invaluere moras.</l>
+            </lg>
+            <p n="18">18. To make theſe expedients effectual and practicable amongſt our ſelves for Unity at this time; it's humbly conceived, that nei<g ref="char:EOLhyphen"/>ther a <hi>Conference,</hi> ſuch as was at <hi>Hampton-Court;</hi> nor a <hi>Synod,</hi> ſuch as was at <hi>Dort,</hi> or at <hi>Weſtminſter;</hi> will heal our breaches, but rather multiply or confirm the ſame: except the way
+<pb n="7" facs="tcp:170397:5"/>
+and manner of their conferring, or of their meet<g ref="char:EOLhyphen"/>ing in a Synod be ſo ordered, that they never ſhall come to diſpute and argue one with ano<g ref="char:EOLhyphen"/>ther about their Principles, or the matters wherein they differ; for I know not any Con<g ref="char:EOLhyphen"/>ference or Synod wherein different parties met to diſpute, which ever brought them to an agreement. True it is, that parties at confe<g ref="char:EOLhyphen"/>rences have ſome times driven one another to abſurdities, and in Synods, according to the power which called them, have over-voted one another; but never have any acknowledged publickly a conviction by a Conference, nor yeelded to the determination of the Synod. The Council of <hi>Trent</hi> hath made the Rent be<g ref="char:EOLhyphen"/>tween Proteſtants and Papiſts irreconcilable. The Synod at <hi>Dort</hi> did not reclaim the Remon<g ref="char:EOLhyphen"/>ſtrants from their way; not the Aſſembly at <hi>Weſtminſter</hi> the Independents or diſſenting brethren, as they were then termed, notwith<g ref="char:EOLhyphen"/>ſtanding the ſeveral attempts of an accommo<g ref="char:EOLhyphen"/>dation; only becauſe the manner of proceeding did rather tend to argue and debate, then to prevent and heal prejud ces.</p>
+            <p>19. Now to prevent Diſputes, and thereby prejudices both at a Synodical meeting, or at a Conference, the expedients will be, to prede<g ref="char:EOLhyphen"/>termine the aim thereof, and the ſubject matter which ſhould be onely concerning matters of
+<pb n="8" facs="tcp:170397:6"/>
+agreement to ſettle them;) and to limitate the manner of the Treaty, which ſhould be only Declarative and Deliberative, and not Argu<g ref="char:EOLhyphen"/>mentative and contradictory.</p>
+            <p n="20">20. And to make ſuch a Treaty ſuccesfull; two things muſt be avoided, which have made commonly all meetings almoſt and conferences about matters of Religion without effect. The firſt is, the jealouſies which they who come to meet, have commonly one of another. The ſe<g ref="char:EOLhyphen"/>cond is, the inconſiderateneſs and heats which fall out in verbal conferences; beſides miſtakes and other inconveniencies.</p>
+            <p n="21">21. Now to avoid and prevent both theſe; the expedients will be,</p>
+            <list>
+               <item>1. That each party, which ſhould treat, be authorized to meet by it ſelf; and chuſe ſuch as they will Depute to attend a meeting in their name, with others from whom they differ.</item>
+               <item>2. That theſe Deputies of the parties, be ap<g ref="char:EOLhyphen"/>pointed to meet ſeverally each by themſelvs in diſtinct places, giving liberty to all of their own way, to bring in to them their thoughts concerning the things which are to be in agi<g ref="char:EOLhyphen"/>tation; by which means each party will be free within it ſelf, and be able to know fully the ſenſe of all that go along with them; when the Brethren as well as the leaders ſhall have acceſs unto the Deliberations.</item>
+               <pb n="9" facs="tcp:170397:6"/>
+               <item>3. That the propoſal of matters to be agita<g ref="char:EOLhyphen"/>ted, ſhall not be left to either of the parties to be contrived, or offered to each other; but ſhall be preſcribed by form of Queſtion, by his Majeſty, to be reſolved from the word of God by each party.</item>
+               <item>4. That the Anſwer of each party ſhall be gi<g ref="char:EOLhyphen"/>ven up in writing to his Majeſty, and ſhall have theſe properties obſerved.
+<list>
+                     <item>1. That it ſhall contain both the <hi>Theſis</hi> and the <hi>Antitheſis</hi> of the matters in queſtion, with the reaſons thereof.</item>
+                     <item>2. That it ſhall deliver nothing as the opini<g ref="char:EOLhyphen"/>on of other men to refute it, but only the ſenſe of the party it ſelf, which doth offer the anſwer.</item>
+                     <item>3. That it ſhall be put in Aphoriſms, and not in a large Diſcourſe.</item>
+                     <item>4. That it ſhall be given to his Majeſty, and not communicated to any before he re<g ref="char:EOLhyphen"/>ceive it.</item>
+                  </list>
+               </item>
+            </list>
+            <p n="22">22. Perhaps it will be objected, that this is a longſome and tedious way.</p>
+            <p>I anſwer; That in this caſe the fartheſt way about is the neareſt way home. For that which doth prevent all inconveniencies, which make all ſhorter wayes ineffectual ought not to be counted long or tedious; and that which infal<g ref="char:EOLhyphen"/>libly will make Peace, is the only ſhort and de<g ref="char:EOLhyphen"/>lightfull
+<pb n="10" facs="tcp:170397:7"/>
+way of proceeding. Moreover becauſe the expedients here mentioned are obvious to every mans capacity, and commonly known by all; therefore the way is more eaſie and without contradiction, and moſt ſutable to the Principles of Goſpel-ſimplicity and Chriſtian-liberty; whereof the former being deſpiſed or neglected; and the latter incroached upon or abuſed, are the cauſes of all our diviſions and diſtractions, or the chief ingredients which make theſe cau<g ref="char:EOLhyphen"/>ſes moſt powerfull in their operation. The plaineſt way of dealing, if it hath an orderly tendency to the right end is leaſt followed, for none can follow it, but he who without all ſelf<g ref="char:EOLhyphen"/>ſeeking deſign or intereſt, hath learned to deny himſelf: and whoſoever in ſeeking Peace doth not ſtudy through ſelf-denial to ſerve others in love; <hi>will make to himſelf crooked paths, and he that goeth therein ſhall not know peace,</hi> Iſa. 59. 8.</p>
+            <p n="23">23. In all theſe fore-mentioned expedients, it is preſuppoſed that each party is fully agreed within it ſelf, concerning the matter which it doth declare to be the common ſenſe of all that belong unto it; but in caſe it fall out, that the members of each party do not agree fully a<g ref="char:EOLhyphen"/>mongſt themſelves, either in their Tenets or in their way of acting (which I have ſeldom ſeen fall out otherwiſe.) The queſtion then will be, What expedient is to be uſed to prevent a new
+<pb n="11" facs="tcp:170397:7"/>
+fraction of a party within it ſelf, when it is a<g ref="char:EOLhyphen"/>bout to treat of an union with others:</p>
+            <p>The expedient may be this.</p>
+            <p n="1">1. Suppoſing there are three or four ſub-di<g ref="char:EOLhyphen"/>ſtinctions of profeſſors in a party, which for the main tenet do agree, and ſo are under one de<g ref="char:EOLhyphen"/>nomination; let each ſub-diſtinction name a deputy or two for it ſelf, to whom it will intruſt its concernments.</p>
+            <p n="2">2. Let theſe Deputies agree upon a Directo<g ref="char:EOLhyphen"/>ry how to order their proceedings within them<g ref="char:EOLhyphen"/>ſelves for the credit and intereſt of their party, that all that can be done by common conſent may be done, notwithſtanding ſome particular diſtinction of waies or difference of opinions, which may be emergent amongſt them; and let this Directory be propoſed to the leaders of the Congregations for their advice and ap<g ref="char:EOLhyphen"/>probation, and it may contain propoſals to this effect.</p>
+            <list>
+               <item>1. That nothing ſhall be reputed an Act of a party, but that which all the Leaders of the Congregations ſhall be made acquainted with and conſent unto, or at leaſt not diſſent from.</item>
+               <item>2. That to form an Act ſo to be reputed, the matter whereof it is to be formed, ſhall be notified to all the leaders of each ſub-diſtin<g ref="char:EOLhyphen"/>ction, to deſire them to bring in their ſugge<g ref="char:EOLhyphen"/>geſtions
+<pb n="12" facs="tcp:170397:8"/>
+in writing to him who is their depu<g ref="char:EOLhyphen"/>ty within a time limited.</item>
+               <item>3. That each Deputy having ſummed up the agreements of his own ſub-diſtinction, ſhall meet with the reſt to conferre notes, and ga<g ref="char:EOLhyphen"/>ther out of all the ſuggeſtions a generall a<g ref="char:EOLhyphen"/>greement.</item>
+               <item>4. This generall agreement being drawn up ſhall at a generall meeting be propoſed to get a general aſſent, that none may ſeem to be impoſed upon in a matter of conſcience.</item>
+               <item>5. That there ſhall be no perpetuall Chairman but the Deputies ſhall preſide by turns for the ordering of matters within themſelves relating to the party.</item>
+               <item>6. That the common ſcribe of the party ſhall keep all the writings which ſhall be given in upon all matters of deliberation; and that a double of the agreement of each ſub-diſtin<g ref="char:EOLhyphen"/>ction within it ſelf, ſhall be kept for ſuch of the Leaders of the Congregations as ſhall deſire to ſee it, or to take a Copy of it.</item>
+               <item>7. That the meetings of the Deputies with the leaders of the Congregations, ſhall begin and end with prayers, <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p n="24">24. If by theſe expedients every party can prevent further inconveniences within it ſelf, and preſerve the union whereunto it is come; and if that degree of Union wherein it ſtandeth
+<pb n="13" facs="tcp:170397:8"/>
+with other parties in the grounds and duties of Chriſtianity, may be held forth and diſcovered, there is a poſſibility of healing the breaches, which hitherto have diſtracted us, and made us a prey unto all the enemies of the Truth; who cun<g ref="char:EOLhyphen"/>ningly have inſinuated, and will inſinuate them<g ref="char:EOLhyphen"/>ſelves more and more amongſt us, to foment our diviſions and our diſtempers, if we reſolve not to own one another in that whereunto we have at<g ref="char:EOLhyphen"/>tained, and to walk by one Rule of charity and mutual forbearance in that whereunto we are not yet come, which is the counſel of the Apoſtle <hi>Paul, Phil.</hi> 3. 15, 16. in a caſe of greater difference between the Jewiſh and Gentile Profeſſors of Chriſtianity, than any is between Proteſtants ei<g ref="char:EOLhyphen"/>ther abroad or at home. And to bring this Rule of the Apoſtle into practice amongſt Proteſtants, a Negotiation hath been entertained for many years with all the Churches and Univerſities a<g ref="char:EOLhyphen"/>broad, under the countenance and authority of the Supreme Magiſtrate of every place: that the breaches between the Churches being repaired upon Goſpel-grounds, and the offences removed by the concurrence of Authority, the Communi<g ref="char:EOLhyphen"/>on of Saints might be upheld, and the truth of the Goſpel-profeſſion might be maintained againſt the common Adverſaries thereof, and unani<g ref="char:EOLhyphen"/>mouſly propagated to Jews, Turks and Heathens, for the enlargement of the kingdom of Jeſus Chriſt unto the ends of the earth.</p>
+            <p>And although the effect of this negotiation hath not hitherto been ſo viſible as hath been wiſhed and prayed for, by reaſon of the civil di<g ref="char:EOLhyphen"/>ſtractions wherewith God hath puniſhed all the
+<pb n="14" facs="tcp:170397:9"/>
+Nations of <hi>Europe,</hi> putting a cup of fury and trembling into their hand, to make them rather waſte and deſtroy one another, than minde the waies of Chriſtian peace and unity: yet if now the Lord will be appeaſed towards his people, and break the ſhield, the hurtful ſword and the battel; we may hope that the thoughts of reconciling Religious differences, upon the grounds of theſe maximes and expedients, will become ſeaſona<g ref="char:EOLhyphen"/>ble; for ſeeing they are matters neither of abſtruſe contemplation, but plain truths, nor of deep con<g ref="char:EOLhyphen"/>trivance, but of common apprehenſion, yet being ſo fundamentally neceſſary for a Goſpel-Refor<g ref="char:EOLhyphen"/>mation, that no true peace, nor religious unity can be had or continued, without the conſtant uſe of them; Therefore they are now extant for a Teſti<g ref="char:EOLhyphen"/>mony of the guilt more or leſs of all patties, who knowing theſe maximes and principles, and not being unacquainied with theſe expedients and rules of walking towards a ſettlement, yet, have not been inclined by their own ingenuity, nor in<g ref="char:EOLhyphen"/>duced by the perſwaſion and earneſt ſollicitation of others to put the ſame in practice, and thereby to become ſubſervient to the kingdom of Jeſus Chriſt in their generation, which fault will never riſe up in judgement againſt him; who hereby bearing witneſſe to theſe truths, doth endeavour to awaken all unto their duty, as it becometh him who hath made himſelf for theſe 30 years paſt, a conſtant ſollicitour of the means of Truth and Peace, amongſt the Proteſtant Churches, whereof they are all Witneſſes, for</p>
+            <closer>
+               <signed>The unworthy Servant of Chriſt in the Goſpel of Peace. JOHN D<g ref="char:V">Ʋ</g>RIE.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
